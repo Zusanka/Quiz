@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+
+    <string name="q_activity">Czy 8 jest podzielne przez 2?</string>
+    <string name="q_find_resources">Czy 6 * 6 = 36? </string>
+    <string name="q_listener">Czy 3 * 3 = 10?</string>
+    <string name="q_resources">Czy 1 jest liczbą pierwszą?</string>
+    <string name="q_version">Czy 2 + 2 = 4?</string>
+
+</resources>
